@@ -13,11 +13,18 @@ h1 {
 	font-family: "RobotoSlab", Sans-serif;
  }
 
+.center {
+	text-align: center;
+	display: block;
+	margin: auto;
+	width: 300px;
+	border: thick;
+}
+
 a {
 	font-size: 20px;
 	font-family: "RobotoSlab", Sans-serif;
 	text-decoration: none;
-	text-align: center;
 }
 
 a:link {
