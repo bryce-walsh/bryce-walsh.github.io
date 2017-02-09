@@ -13,18 +13,19 @@ h1 {
 	font-family: "RobotoSlab", Sans-serif;
  }
 
-a:link {
+a {
 	font-size: 20px;
-	color: #373737;
 	font-family: "RobotoSlab", Sans-serif;
 	text-decoration: none;
+	text-align: center;
+}
+
+a:link {
+	color: #373737;
 }
 
 a:visited {
-	font-size: 20px;
 	color: #6D7993;
-	font-family: "RobotoSlab", Sans-serif;
-	text-decoration: none;
 }
 
 img.resize {
