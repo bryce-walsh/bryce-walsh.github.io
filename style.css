@@ -1,9 +1,9 @@
 body {
-	background-color: lightblue;
+	background-color: lightgrey;
 }
 
 h1 { 
-	color: red;
+	color: darkgrey;
 	text-align: center;
  }
 
@@ -13,6 +13,5 @@ p {
 
 .link {
 	font-size: 20px;
-	font-color: lightgrey;
 	text-align: center;
 }
